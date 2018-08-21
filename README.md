@@ -8,7 +8,7 @@
     "sideBar.background": "#191a19",
     "tab.inactiveBackground": "#323532",
     "activityBar.background": "#1e1f1e",
-    "editor.lineHighlightBackground": "#313531bb"
+    "editor.lineHighlightBackground": "#3a3f3abb"
     }
 
 }

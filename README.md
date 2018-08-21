@@ -1,3 +1,19 @@
+# Changes to colors:
+
+```json
+{
+    "workbench.colorCustomizations":{
+    "statusBar.background" : "#007acc",
+    "editor.background": "#1c1d1c",
+    "sideBar.background": "#191a19",
+    "tab.inactiveBackground": "#323532",
+    "activityBar.background": "#1e1f1e",
+    "editor.lineHighlightBackground": "#313531bb"
+    }
+
+}
+```
+
 # Monokai from ST3
 Fork Sublime's iconic Monokai Orig theme, and is the most beautiful themes for codding that I ever seen in my life.
 
